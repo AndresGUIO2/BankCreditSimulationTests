@@ -16,6 +16,7 @@
         <junit-platform-suite.version>1.11.3</junit-platform-suite.version>
         <cucumber-junit-platform-engine.version>7.20.1</cucumber-junit-platform-engine.version>
         <encoding>UTF-8</encoding>
+        <whiteListedDependencies>your,comma,separated,dependencies</whiteListedDependencies>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
     </properties>
